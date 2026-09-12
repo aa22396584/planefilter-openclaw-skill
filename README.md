@@ -1,5 +1,10 @@
 # PlaneFilter — OpenClaw Skill ✈️
 
+> **Development home:** https://github.com/ImL1s/planefilter-openclaw-skill  
+> Please open issues and pull requests there.  
+> **Mirrors:** [Codeberg](https://codeberg.org/ImL1s/planefilter-openclaw-skill) · [GitLab](https://gitlab.com/aa22396584/planefilter-openclaw-skill)
+
+
 > Flight aircraft type lookup with multi-source confidence scoring.
 > 多資料來源航班機型查詢，附信心評分。
 
