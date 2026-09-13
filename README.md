@@ -8,6 +8,8 @@ https://github.com/aa22396584/planefilter-openclaw-skill
 [Codeberg](https://codeberg.org/ImL1s/planefilter-openclaw-skill)
 
 
+> **Why this GitHub home?** Public development moved here from [`ImL1s/planefilter-openclaw-skill`](https://github.com/ImL1s/planefilter-openclaw-skill) because that GitHub account is currently restricted (anonymous visitors get 404 on the profile and many assets). This is the same project. Please open Issues and Pull Requests here.
+
 > Flight aircraft type lookup with multi-source confidence scoring.
 > 多資料來源航班機型查詢，附信心評分。
 
