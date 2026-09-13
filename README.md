@@ -1,8 +1,11 @@
 # PlaneFilter — OpenClaw Skill ✈️
 
-> **Development home:** https://github.com/ImL1s/planefilter-openclaw-skill  
-> Please open issues and pull requests there.  
-> **Mirrors:** [Codeberg](https://codeberg.org/ImL1s/planefilter-openclaw-skill) · [GitLab](https://gitlab.com/aa22396584/planefilter-openclaw-skill)
+**Development, Issues & Pull Requests:**  
+https://github.com/aa22396584/planefilter-openclaw-skill
+
+**Mirrors:**  
+[GitLab](https://gitlab.com/aa22396584/planefilter-openclaw-skill) ·
+[Codeberg](https://codeberg.org/ImL1s/planefilter-openclaw-skill)
 
 
 > Flight aircraft type lookup with multi-source confidence scoring.
@@ -23,14 +26,14 @@ npx clawhub install planefilter
 ### Option 2: Git clone
 
 ```bash
-git clone https://github.com/ImL1s/planefilter-openclaw-skill.git ~/.openclaw/workspace/skills/planefilter
+git clone https://github.com/aa22396584/planefilter-openclaw-skill.git ~/.openclaw/workspace/skills/planefilter
 ```
 
 ### Option 3: Let the agent install it / 讓 agent 幫你裝
 
 Tell your OpenClaw agent / 告訴你的 OpenClaw agent：
 
-> "Install the planefilter skill from https://github.com/ImL1s/planefilter-openclaw-skill"
+> "Install the planefilter skill from https://github.com/aa22396584/planefilter-openclaw-skill"
 
 The agent will clone and place it in the correct directory.
 Agent 會自動 clone 並放到正確目錄。
